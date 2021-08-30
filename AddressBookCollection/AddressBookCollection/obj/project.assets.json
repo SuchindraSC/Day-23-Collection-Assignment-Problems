@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\AddressBookCollection.csproj",
+      "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\AddressBookCollection.csproj",
       "projectName": "AddressBookCollection",
-      "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\AddressBookCollection.csproj",
+      "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\AddressBookCollection.csproj",
       "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\obj\\",
+      "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 23 Assignment Problem\\AddressBookCollection\\AddressBookCollection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",

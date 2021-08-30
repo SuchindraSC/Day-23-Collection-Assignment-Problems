@@ -93,7 +93,9 @@ namespace AddressBookCollection
                     {
                         Console.WriteLine("You Entered Invalid Phone Number. Please Enter A Valid Phone Number ");
                     }
-
+                }
+                while(true)
+                { 
                     Console.WriteLine("Enter The Email-ID: ");
                     string emailID = Console.ReadLine();
                     if (emailID.Contains("@"))
